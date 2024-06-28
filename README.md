@@ -1,7 +1,7 @@
 # AutoClicker
-Author: Anders Jensen
-Date: 6-28-2024
-Summary: An autoclicker that can be used for gaming, auto-liking, or task automations.
+- Author: Anders Jensen
+- Date: 6-28-2024
+- Summary: An autoclicker that can be used for gaming, auto-liking, or task automations.
 
 A while ago, I was playing a video game, and thought to myself: 
   I wish I could click faster, as well as take care of the monotonous tasks of clicking ahead of me while I was away from my PC. 
