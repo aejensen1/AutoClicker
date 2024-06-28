@@ -35,7 +35,7 @@ up mingw64 if you need to compile a .cpp file:
     - Instead install gcc using: "pacman -S mingw-w64-x86_64-gcc" and set environment variable path as C:\msys64\mingw64\bin.
     - Basically, these both install mingw, but in different folders. With the environment variable set, I was able to use g++ in Powershell.
   - Use this command to compile the cpp file. The static option requests static linking of dlls which may work better than dynamic for this
-    - indivdual file: "g++ -std=c++11 -static -o my_program.exe my_program.cpp"
+    - indivdual file. Replace the filenames as needed: "g++ -std=c++11 -static -o my_program.exe my_program.cpp"
 
 As far as user interface goes, you can access the hotkeys in any window. I tried to make the hotkeys uncommon keys needed for games and
 aplications. You can change them in the code if needed. Also, the program may have issues if you have the hotkeys being used by another
